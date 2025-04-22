@@ -1,0 +1,8 @@
+# ------ root_path/dataset_name ------
+ade20k_path: 'C:\Users\Shijie Wang\Desktop\Research\VFM\OpenClip\VFM_lite_evaluation-main\datasets\ADE20K'
+cache_dir: 'cache_dir'
+dataset: 'ade20k'
+
+# ------ Basic Config ------
+model: 'open_clip'
+backbone: 'ViT-B/32'
