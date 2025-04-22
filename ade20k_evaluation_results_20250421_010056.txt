@@ -1,0 +1,482 @@
+ADE20K Evaluation Results for CLIP ViT-B/32
+Evaluation Date: 2025-04-21 01:01:02
+Number of images evaluated: 10
+Device used: cuda
+Total execution time: 8.58 seconds
+
+=== Overall Metrics ===
+Average mIOU: 0.0006
+Average Precision: 0.0080
+Average Recall: 0.0269
+
+=== Per-Image Results ===
+
+Image: ADE_val_00000001.jpg
+mIOU: 0.0013
+Precision: 0.0103
+Recall: 0.1250
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0103
+  Precision: 0.0103
+  Recall: 1.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 2:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 3:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 5:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 7:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 10:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 18:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+
+Image: ADE_val_00000002.jpg
+mIOU: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 2:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 3:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 5:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 14:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 18:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 144:
+  IoU: 0.0000
+  Precision: 0.0000
+  Recall: nan
+
+Image: ADE_val_00000003.jpg
+mIOU: 0.0013
+Precision: 0.0169
+Recall: 0.0769
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0169
+  Precision: 0.0169
+  Recall: 1.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 2:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 3:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 5:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 7:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 12:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 21:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 44:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 81:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 88:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 97:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 103:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+
+Image: ADE_val_00000004.jpg
+mIOU: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 3:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 5:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 10:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 13:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 17:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 21:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 39:
+  IoU: 0.0000
+  Precision: 0.0000
+  Recall: nan
+Class 55:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 91:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+
+Image: ADE_val_00000005.jpg
+mIOU: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 4:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 5:
+  IoU: 0.0000
+  Precision: 0.0000
+  Recall: nan
+Class 6:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 13:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 16:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 19:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 32:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+
+Image: ADE_val_00000006.jpg
+mIOU: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 2:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 3:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 30:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 55:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 84:
+  IoU: 0.0000
+  Precision: 0.0000
+  Recall: nan
+Class 91:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+
+Image: ADE_val_00000007.jpg
+mIOU: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 4:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 6:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 13:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 44:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 58:
+  IoU: 0.0000
+  Precision: 0.0000
+  Recall: nan
+
+Image: ADE_val_00000008.jpg
+mIOU: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 4:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 6:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 9:
+  IoU: 0.0000
+  Precision: 0.0000
+  Recall: nan
+Class 96:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+
+Image: ADE_val_00000009.jpg
+mIOU: 0.0035
+Precision: 0.0529
+Recall: 0.0667
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0529
+  Precision: 0.0529
+  Recall: 1.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 4:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 6:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 9:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 13:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 15:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 16:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 18:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 20:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 39:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 44:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 87:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 124:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 126:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+
+Image: ADE_val_00000010.jpg
+mIOU: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+Per-class metrics:
+Class 0:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 1:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 4:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 6:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 13:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 16:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 18:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 20:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 23:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 32:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 37:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 42:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 43:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 44:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 83:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 126:
+  IoU: 0.0000
+  Precision: nan
+  Recall: 0.0000
+Class 140:
+  IoU: 0.0000
+  Precision: 0.0000
+  Recall: nan
